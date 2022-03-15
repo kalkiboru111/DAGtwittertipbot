@@ -1,4 +1,6 @@
 // In Node.js
+import { dag4 } from '@stardust-collective/dag4';
+
 const fetch = require('node-fetch');
 const { dag4 } = require("@stardust-collective/dag4");
 
